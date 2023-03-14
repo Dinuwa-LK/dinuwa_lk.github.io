@@ -61,7 +61,7 @@ nav #icon{
     font-size: 17px;
   }
 }
-@media (max-width:909px){
+@media (max-width:768px){
   nav #icon{
     display: block;
   }
