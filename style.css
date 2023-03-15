@@ -61,12 +61,12 @@ nav #icon{
     font-size: 17px;
   }
 }
-@media (max-width:700px){
+@media (max-width:768px){
   nav #icon{
     display: block;
   }
   lable.logo{
-    font-size: 22px;
+    font-size: 23px;
   }
   nav ul{
     position: fixed;
